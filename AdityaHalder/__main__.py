@@ -60,12 +60,12 @@ async def initiate_bot():
             status="[bold blue]Importation Completed!",
         )
     console.print(
-        "[bold green] 🥀 Genius Userbot Started ✨\n"
+        "[bold green] 🥀𝚅𝙰𝙼𝚂𝙸 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝚂𝚃𝙰𝚁𝚃𝙴𝙳 ✨\n"
     )
     try:
         await robot.send_message(
             LOG_GROUP_ID,
-            "<b> 🥀 Genius UserBot is Here ✨</b>",
+            "<b> 🥀𝚅𝙰𝙼𝚂𝙸 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝚂𝚃𝙰𝚁𝚃𝙴𝙳✨</b>",
         )
     except Exception as e:
         print(
@@ -118,9 +118,9 @@ async def start(_, message):
 Pʀᴇᴍɪᴜᴍ Tᴇʟᴇɢʀᴀᴍ Usᴇʀ Bᴏᴛ.
 
 ┏━━━━━━━━━━━━━━━━━━━┓
-┣★ Oᴡɴᴇʀ'xD› : [Aᴅɪᴛʏᴀ Hᴀʟᴅᴇʀ](https://t.me/adityahalder)
-┣★ Uᴘᴅᴀᴛᴇs ›› : [Aᴅɪᴛʏᴀ Sᴇʀᴠᴇʀ](https://t.me/adityaserver)
-┣★ Sᴜᴘᴘᴏʀᴛ » : [Aᴅɪᴛʏᴀ Dɪsᴄᴜs](https://t.me/adityadiscus)
+┣★ Oᴡɴᴇʀ'xD› : [ᴠᴀᴍsɪ ʀᴇᴅᴅʏ](https://t.me/WILDBORN901)
+┣★ Uᴘᴅᴀᴛᴇs ›› : [Aᴅɪᴛʏᴀ Sᴇʀᴠᴇʀ](https://t.me/TeamXdUpdates)
+┣★ ᴛᴇᴀᴍ » : [xᴅ ᴏɴᴡᴇʀs](https://t.me/Xdowners)
 ┗━━━━━━━━━━━━━━━━━━━┛
 
 💞 Cʟɪᴄᴋ Oɴ Dᴇᴘʟᴏʏ Bᴜᴛᴛᴏɴ Tᴏ Mᴀᴋᴇ
